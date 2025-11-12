@@ -1,6 +1,6 @@
 body {
-    background-color: rgb(74, 203, 221);
-    font-family: Arial, sans-serif;
+    background-color: rgb(43, 96, 104);
+    font-family: sans-serif, sans-serif;
     color: beige;
     margin: 0;
     padding: 0 20px;
@@ -9,13 +9,13 @@ body {
 h1 {
     text-align: center;
     font-size: 2.5em;
-    color: beige;
+    color: beige(84, 84, 54);
 }
 
 h4 {
     text-align: center;
-    color: rgb(90, 111, 171);
-    font-weight: normal;
+    color: bisque(37, 65, 67);
+    font-weight: lighter;
 }
 
 p {
@@ -24,7 +24,7 @@ p {
 }
 
 a {
-    color: navy;
+    color: bisque;
     text-decoration: none;
 }
 
@@ -33,8 +33,8 @@ a:hover {
 }
 
 img {
+    width: 300px;
+    height: auto;
     display: block;
-    margin: 20px auto;
-    max-width: 300px;
-    border-radius: 10px;
+    margin: 0 auto; /* centers horizontally */
 }
