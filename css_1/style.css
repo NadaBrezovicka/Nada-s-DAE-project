@@ -29,7 +29,7 @@ h4 {
 
 /* === IMAGE STYLING === */
 img {
-    width: 300px;              /* Adjust the image size */
+    width: 500px;              /* Adjust the image size */
     height: auto;              /* Keeps correct proportions */
     display: block;
     margin: 12px auto;         /* Centers the image */

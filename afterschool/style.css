@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Afterschool Activities</title>
+
+    <style>
+        /* === GLOBAL === */
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: "Segoe UI", sans-serif;
+            color: #f5f5dc;
+            background: linear-gradient(135deg, rgb(43, 96, 104), rgb(28, 60, 66));
+        }
+
+        a { color: #f5deb3; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+
+        /* === HEADER === */
+        header {
+            text-align: center;
+            padding: 40px 20px;
+            background: rgba(255, 255, 255, 0.06);
+            border-bottom: 2px solid beige;
+            backdrop-filter: blur(4px);
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 3rem;
+        }
+
+       
